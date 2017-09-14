@@ -95,20 +95,4 @@ Data::Data(int d, int m, int a){
         }
     }
 
-    int main(){
-    int dia, mes, ano;
-
-    cout << "Digite o dia:" << endl;
-    cin >> dia;
-
-    cout << "Digite o mes:" << endl;
-    cin >> mes;
-
-    cout << "Digite o ano:" << endl;
-    cin >> ano;
-
-
-    return 0;
-    }
-
 
